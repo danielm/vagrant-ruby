@@ -1,4 +1,10 @@
-# Gemfile
+# File: src/Gemfile
+# 
+# By: Daniel Morales <daniminas@gmail.com>
+#
+# Web: https://github.com/danielm/vagrant-ruby
+#
+# Licence: GPL/MIT
 
 source 'https://rubygems.org'
 

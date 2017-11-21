@@ -1,4 +1,15 @@
-Simple Vagrant project using RUBY+RVM for Sinatra development.
 
-Source for the Blog post on:
-http://danieldev.io/development/2016/12/introduction-to-vagrant.html
+# Simple Vagrant project for Sinatra development.
+
+## Includes:
+- Ubuntu 16.04 LTS (Xenial 64)
+- RVM
+- Ruby 2.2.2
+- Bundler
+- Git
+- Basic Sinatra project
+- nodejs (repo package): NVM Soon(tm)
+
+## More
+More info about how to customize Vagrant here:
+http://daniel.uy/en/development/2016/12/introduction-to-vagrant.html

@@ -1,3 +1,12 @@
+#
+# File: src/applicatiion.rb
+# 
+# By: Daniel Morales <daniminas@gmail.com>
+#
+# Web: https://github.com/danielm/vagrant-ruby
+#
+# Licence: GPL/MIT
+
 require 'sinatra'
 
 configure do
