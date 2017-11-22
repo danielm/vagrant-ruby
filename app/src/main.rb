@@ -1,5 +1,5 @@
 #
-# File: src/applicatiion.rb
+# File: app/src/main.rb
 # 
 # By: Daniel Morales <daniminas@gmail.com>
 #

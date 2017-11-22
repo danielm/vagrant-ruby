@@ -1,5 +1,5 @@
 #
-# File: src/Rakefile
+# File: app/Rakefile
 # 
 # By: Daniel Morales <daniminas@gmail.com>
 #
@@ -7,4 +7,4 @@
 #
 # Licence: GPL/MIT
 
-require './application'
+require './main'

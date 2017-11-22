@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# File: provision.sh
+# File: scripts/provision.sh
 # 
 # By: Daniel Morales <daniminas@gmail.com>
 #

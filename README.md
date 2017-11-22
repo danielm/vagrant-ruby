@@ -1,5 +1,5 @@
 
-# Simple Vagrant project for Sinatra development.
+# Simple Vagrant box for Sinatra development.
 
 ## Includes:
 - Ubuntu 16.04 LTS (Xenial 64)
@@ -9,6 +9,14 @@
 - Git
 - Basic Sinatra project
 - nodejs (repo package): NVM Soon(tm)
+
+## Authors
+
+* **Daniel Morales** - <daniminas@gmail.com> - [danielm](https://github.com/danielm)
+
+## License
+
+This project is Dual licensed under the MIT and GPL licenses.
 
 ## More
 More info about how to customize Vagrant here:

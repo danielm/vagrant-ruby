@@ -1,5 +1,5 @@
 #
-# File: src/config.ru
+# File: app/config.ru
 # 
 # By: Daniel Morales <daniminas@gmail.com>
 #
@@ -11,5 +11,5 @@ require 'sinatra'
 set :run, false
 set :environment, ENV['RACK_ENV'] || 'development'
 
-require './application'
+require './main'
 run Sinatra::Application

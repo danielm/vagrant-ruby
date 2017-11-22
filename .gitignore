@@ -1,3 +1,5 @@
 /.bundle/
 /.vagrant/
+/app/Gemfile.lock
 *.log
+*.diff
