@@ -20,4 +20,4 @@ This project is Dual licensed under the MIT and GPL licenses.
 
 ## More
 More info about how to customize Vagrant here:
-http://daniel.uy/en/development/2016/12/introduction-to-vagrant.html
+http://danielmg.org/development/2016/12/introduction-to-vagrant.html
